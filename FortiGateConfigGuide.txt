@@ -1,0 +1,20 @@
+Fortinet FortiGate 60e Firewall Web UI Guide
+
+Initial config off Port 1
+
+https://192.168.1.99/
+
+Username: admin
+Pw:    //no password
+
+First thing you want to go into Settings and adjust time/date and synchronize with NTP Server
+Select FortiGuard server & sync interval 60
+
+DNS (Primary & Secondary DNS Servers)
+
+
+Static Routes (Configure routes you already know as well as 
+your default gateway ip & network)
+Set the AD as well
+
+Everything else should be according to internal requirements
